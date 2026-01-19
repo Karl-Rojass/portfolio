@@ -1,2 +1,2 @@
 # portfolio
-una versión temprana de un porfolio
+test, Trabajo en proceso (WIP)
